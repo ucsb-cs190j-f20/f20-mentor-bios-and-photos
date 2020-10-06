@@ -1,9 +1,9 @@
-Hello everyone, my name is Kobe Shavolian (he/him/his) and I am a 3rd year Computer Science major here at UCSB!
+Hello everyone, my name is Kobe Shavolian (he/him/his) and I am a 3rd-year Computer Science major here at UCSB!
 I’m super excited to be a tutor for this course as it was one of my favorite CS classes I took so far.
 CS24 taught me the foundation of thinking like a problem solver and introduced me to concepts that help me solve problems today.
-As a student who transferred from being a Math major, I hope to provide explanations for students with little programing experience
+As a student who transferred from being a Math major, I hope to provide explanations for students with little programming experience
 as well as higher-level concepts for those who do have experience.
-We all start somewhere, so I want to cater towards every audience and provide as much support as I can!
+We all start somewhere, so I want to cater to every audience and provide as much support as I can!
 As mentioned, I was previously a Math major who was accepted into the College of Engineering so I can offer to answer any questions related to that process.
 I can also talk about clubs (such as the Data Science club) or sources outside UCSB if students want to further their independent knowledge on any subject. 
 Beyond academics, I enjoy playing games, going to the gym, watching Netflix (of course), and building computers!
